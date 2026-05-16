@@ -1,0 +1,6 @@
+{
+  "name": "SecureChat E2E",
+  "description": "A simple, secure, 2-person end-to-end encrypted chat application using AES-GCM and WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
